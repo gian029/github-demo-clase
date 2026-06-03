@@ -1,2 +1,2 @@
 # github-demo-clase
-Demo-github
+Repo demo de github
